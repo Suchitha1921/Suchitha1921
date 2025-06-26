@@ -40,7 +40,7 @@ I **analyze**, **visualize**, and **build projects** that not only answer questi
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
 | 🎬 **Streaming Smart Planner** | Personalized movie recommendations based on mood, time & platform. It’s your mood's movie buddy! | Python, Pandas, CLI, File Handling | [GitHub Repo](https://github.com/Suchitha1921/Streaming-Smart-Planner) |
-| 📊 **Online Retail Dashboard** | Executive-level insights from a retail dataset using clean, professional Power BI dashboards | Power BI, Excel | [GitHub Repo](https://github.com/Suchitha1921/Online-Retail-PowerBI-Dashboard) |
+| 📈 **Super Store Sales Analysis** | An end-to-end dashboard project analyzing key performance metrics across segments and regions | Power BI, Excel | [GitHub Repo](https://github.com/Suchitha1921/Super_Store_Sales_Analysis-) |
 | 📁 **Event Registration System** | A fully functional backend event registration system using FastAPI & file operations | Python, FastAPI, JSON, CSV | [GitHub Repo](https://github.com/Suchitha1921/Event-Registration-System) |
 
 ---

@@ -58,12 +58,11 @@ I **analyze**, **visualize**, and **build projects** that not only answer questi
 ## 🏆 Accomplishments
 
 - 📈 Created live dashboards using Power BI to track sales KPIs across regions and segments
-- 🎯 Developed CLI tools to recommend content dynamically using real-time user inputs
+- 🔧 Built a backend event registration system with dynamic event data and file-based storage
 - 🧠 Completed multiple real-world projects integrating **JSON, CSV, FastAPI**, and **data storytelling**
-- 💡 Known for creative, user-centered project ideas (first-of-its-kind implementations)
+- 💡 Known for creative, user-centered project ideas and simplified problem-solving approaches
 
 ---
-
 
 ## 🌐 Let’s Connect
 

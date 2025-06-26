@@ -40,18 +40,30 @@ I **analyze**, **visualize**, and **build projects** that not only answer questi
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
 | 🎬 **Streaming Smart Planner** | Personalized movie recommendations based on mood, time & platform. It’s your mood's movie buddy! | Python, Pandas, CLI, File Handling | [GitHub Repo](https://github.com/Suchitha1921/Streaming-Smart-Planner) |
-| 📈 **Super Store Sales Analysis** | An end-to-end dashboard project analyzing key performance metrics across segments and regions | Power BI, Excel | [GitHub Repo](https://github.com/Suchitha1921/Super_Store_Sales_Analysis-) |
+| 📈 **Super Store Sales Analysis** | An end-to-end dashboard project analyzing key performance metrics across segments and regions | Power BI, Excel, SQL | [GitHub Repo](https://github.com/Suchitha1921/Super_Store_Sales_Analysis-) |
 | 📁 **Event Registration System** | A fully functional backend event registration system using FastAPI & file operations | Python, FastAPI, JSON, CSV | [GitHub Repo](https://github.com/Suchitha1921/Event-Registration-System) |
 
+## 🎓 Certifications & Learning
+
+- ✅ Completed the **Google Data Analytics Professional Certificate**  
+  *(8-course program on Coursera covering data cleaning, analysis, visualization & SQL using real-world business scenarios)*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/)
+
+- 🎯 Completed **Microsoft Excel: Beginner to Advanced** on Udemy  
+- 🏅 Earned **HackerRank Intermediate SQL Certification**  
+- 🔍 Ongoing learning in Python with 30DaysOfPython & Indian Data Club challenges
+
 ---
 
-## 🧪 Currently Working On
+## 🏆 Accomplishments
 
-- 📅 A unique 30-day challenge mini project series (Stay tuned!)
-- 🧪 Capstone project: *First-in-the-world idea under wraps* 👀
-- 🧠 Exploring AI tools to assist data storytelling
+- 📈 Created live dashboards using Power BI to track sales KPIs across regions and segments
+- 🎯 Developed CLI tools to recommend content dynamically using real-time user inputs
+- 🧠 Completed multiple real-world projects integrating **JSON, CSV, FastAPI**, and **data storytelling**
+- 💡 Known for creative, user-centered project ideas (first-of-its-kind implementations)
 
 ---
+
 
 ## 🌐 Let’s Connect
 

@@ -47,7 +47,7 @@ I **analyze**, **visualize**, and **build projects** that not only answer questi
 
 - ✅ Completed the **Google Data Analytics Professional Certificate**  
   *(8-course program on Coursera covering data cleaning, analysis, visualization & SQL using real-world business scenarios)*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/)
+  [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/RSKVREITEZPP)
 
 - 🎯 Completed **Microsoft Excel: Beginner to Advanced** on Udemy  
 - 🏅 Earned **HackerRank Intermediate SQL Certification**  

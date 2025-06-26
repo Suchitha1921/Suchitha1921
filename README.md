@@ -3,60 +3,70 @@
   <em>Aspiring Data Analyst | Problem Solver | Curious Explorer of Data</em>
 </p>
 
----
-
-### 🔍 About Me
-I'm a passionate **Data Analyst** with hands-on experience in **Python, SQL, Excel, Power BI**, and **data storytelling**. With every dataset I encounter, I look for meaningful insights, patterns, and stories that drive smarter decisions. My journey started with curiosity, and now it’s all about solving **real-world problems** using data.
-
-I believe that data is more than numbers—it's **a voice**, and I love being the one to **listen and translate** it.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7809E&width=435&lines=Turning+data+into+decisions...;Powering+insights+with+Python+%26+BI...;Welcome+to+my+Data+Journey!" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🚀 What I Bring
-- 📊 **Data Analysis**: Clean, process, analyze, and visualize data to uncover insights
-- 📈 **Visualization**: Translate complexity into clarity with tools like Power BI and Matplotlib
-- 🧠 **Curiosity-driven Projects**: I don't just code — I ask *why*, *what if*, and *how better*
-- 📚 **Lifelong Learner**: From SQL queries to AI ethics, I'm constantly learning and evolving
+## 👩‍💻 Who Am I?
+
+Hey there! I’m Suchitha — a curious mind driven by data and creativity.  
+I **analyze**, **visualize**, and **build projects** that not only answer questions but spark better ones. I love applying Python, SQL, and Power BI to make data **speak** in stories, not spreadsheets.
+
+> 🚀 "I don’t just learn tech — I *create* with it."
 
 ---
 
-### 🧪 Recent Projects
-- 🔷 **Streaming Smart Planner**  
-  Personalized recommendations based on mood, time & platform. *(Python + Pandas + JSON + CLI)*  
-  [GitHub Repo](#) <!-- Update link -->
-
-- 📊 **Online Retail Sales Dashboard**  
-  Built in Power BI to help CEOs track revenue, customer value, and trends  
-  [GitHub Repo](#) <!-- Update link -->
-
-- 🧠 **Titanic Survival Prediction**  
-  Machine Learning model to predict survival using feature engineering  
-  [GitHub Repo](#) <!-- Update link -->
-
----
-
-### 🧰 Toolbox
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-
----
-
-### 📬 Let’s Connect!
-- 📫 Email: [kamarapusuchitha219@gmail.com](mailto:kamarapusuchitha219@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/suchitha-kamarapu](https://www.linkedin.com/in/suchitha-kamarapu)  
-- 🖥️ Portfolio: *Coming Soon*
-
----
-
-### ✨ Fun Fact
-> I turned my love for solving puzzles into solving business problems using data. When I’m not coding, I’m probably sketching data ideas or exploring new tech!
-
----
+## 🧠 Skillset
 
 <p align="center">
-  ⚡ Let’s transform raw data into real impact!
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-%23cccccc?style=for-the-badge&logo=json&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSV-134074?style=for-the-badge&logo=files&logoColor=white" />
+</p>
+
+---
+
+## 🌟 Highlight Projects
+
+| Project | Description | Tools | Link |
+|--------|-------------|-------|------|
+| 🎬 **Streaming Smart Planner** | Personalized movie recommendations based on mood, time & platform. It’s your mood's movie buddy! | Python, Pandas, CLI, File Handling | [GitHub Repo](https://github.com/Suchitha1921/Streaming-Smart-Planner) |
+| 📊 **Online Retail Dashboard** | Executive-level insights from a retail dataset using clean, professional Power BI dashboards | Power BI, Excel | [GitHub Repo](https://github.com/Suchitha1921/Online-Retail-PowerBI-Dashboard) |
+| 📁 **Event Registration System** | A fully functional backend event registration system using FastAPI & file operations | Python, FastAPI, JSON, CSV | [GitHub Repo](https://github.com/Suchitha1921/Event-Registration-System) |
+
+---
+
+## 🧪 Currently Working On
+
+- 📅 A unique 30-day challenge mini project series (Stay tuned!)
+- 🧪 Capstone project: *First-in-the-world idea under wraps* 👀
+- 🧠 Exploring AI tools to assist data storytelling
+
+---
+
+## 🌐 Let’s Connect
+
+- 🔗 **GitHub**: [Suchitha1921](https://github.com/Suchitha1921)
+- 💼 **LinkedIn**: [linkedin.com/in/suchitha-kamarapu](https://www.linkedin.com/in/suchitha-kamarapu)
+- ✉️ **Email**: kamarapusuchitha219@gmail.com
+
+---
+
+## 📌 Philosophy
+
+> _“Anyone can look at data. I choose to listen to it.”_
+
+If you're reading this, you're already part of the journey. Thanks for stopping by — now go build something *awesome* ✨
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F781BF&height=100&section=footer"/>
 </p>

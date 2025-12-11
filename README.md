@@ -1,68 +1,108 @@
 <h1 align="center">Hi there, I'm Suchitha Kamarapu 👋</h1>
-<p align="center">
-  <em>Aspiring Data Analyst | Problem Solver | Curious Explorer of Data</em>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7809E&width=435&lines=Turning+data+into+decisions...;Powering+insights+with+Python+%26+BI...;Welcome+to+my+Data+Journey!" alt="Typing SVG" />
-</p>
+# 🌐 Suchitha Kamarapu  
+**Data Analyst | Power BI • SQL • Python • Excel | Insight Engineering & BI Solutions**
 
----
-
-## 👩‍💻 Who Am I?
-
-Hey there! I’m Suchitha — a curious mind driven by data and creativity.  
-I **analyze**, **visualize**, and **build projects** that not only answer questions but spark better ones. I love applying Python, SQL, and Power BI to make data **speak** in stories, not spreadsheets.
-
-> 🚀 "I don’t just learn tech — I *create* with it."
+I work at the intersection of business questions and analytical clarity.  
+My focus is on translating raw data into structured insight systems that improve decisions, efficiency, and outcomes.  
+Every project I build aims to answer one question: *How can this insight move the business forward?*
 
 ---
 
-## 🧠 Skillset
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-%23cccccc?style=for-the-badge&logo=json&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSV-134074?style=for-the-badge&logo=files&logoColor=white" />
-</p>
+## 🔍 What I Do  
+- Build analytical dashboards that reveal patterns, performance shifts, and opportunities  
+- Translate complex data into simple, decision-ready visuals  
+- Design scalable data models using DAX, SQL, and Power Query  
+- Accelerate workflows through automation, structured reporting, and quality improvements  
+- Deliver insights with measurable impact backed by data  
 
 ---
 
-## 🌟 Highlight Projects
+## 🧠 Skills & Toolkit  
+**Business Intelligence**  
+Power BI • Power Query • DAX • Dashboard Storytelling  
 
-| Project | Description | Tools | Link |
-|--------|-------------|-------|------|
-| 🎬 **Streaming Smart Planner** | Personalized movie recommendations based on mood, time & platform. It’s your mood's movie buddy! | Python, Pandas, CLI, File Handling | [GitHub Repo](https://github.com/Suchitha1921/Streaming-Smart-Planner) |
-| 📈 **Super Store Sales Analysis** | An end-to-end dashboard project analyzing key performance metrics across segments and regions | Power BI, Excel, SQL | [GitHub Repo](https://github.com/Suchitha1921/Super_Store_Sales_Analysis-) |
-| 📁 **Event Registration System** | A fully functional backend event registration system using FastAPI & file operations | Python, FastAPI, JSON, CSV | [GitHub Repo](https://github.com/Suchitha1921/Event-Registration-System) |
+**Programming & Databases**  
+SQL (Joins, CTEs, Aggregations) • MySQL • Python (Pandas, NumPy)  
 
-## 🎓 Certifications & Learning
-
-- ✅ Completed the **Google Data Analytics Professional Certificate**  
-  *(8-course program on Coursera covering data cleaning, analysis, visualization & SQL using real-world business scenarios)*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/RSKVREITEZPP)
-
-- 🎯 Completed **Microsoft Excel: Beginner to Advanced** on Udemy  
-- 🏅 Earned **HackerRank Intermediate SQL Certification**  
-- 🔍 Ongoing learning in Python with 30DaysOfPython & Indian Data Club challenges
+**Analytics Foundation**  
+Advanced Excel • Data Cleaning • Data Modeling • Insight Frameworks  
 
 ---
 
-## 🏆 Accomplishments
-
-- 📈 Created live dashboards using Power BI to track sales KPIs across regions and segments
-- 🔧 Built a backend event registration system with dynamic event data and file-based storage
-- 🧠 Completed multiple real-world projects integrating **JSON, CSV, FastAPI**, and **data storytelling**
-- 💡 Known for creative, user-centered project ideas and simplified problem-solving approaches
+## 📌 Experience  
+### **Data Analyst Intern — AtliQ Technologies**  
+Aug 2025 – Present  
+- Diagnosed a **7M user drop**, a **70% fall in Plan P7**, and adoption shifts that shaped product decisions  
+- Improved data quality by **38%** and accelerated analytics workflows by **40%**  
+- Designed feature mockups increasing requirement clarity by **50%** and communication efficiency by **45%**  
 
 ---
+
+## 🚀 Highlight Projects  
+
+### 🛡️ **Shield Insurance Analysis**  
+*Power BI, DAX, Power Query*  
+- Analyzed **₹989.25M revenue** and **26.84K customers** to identify high-performing cities and peak months  
+- Studied 4 sales channels; Offline Agent contributed **~55%** of revenue  
+- Computed risk-weighted settlement estimates (e.g., **₹191M** for age 31–40)  
+**Repo • Dashboard • Video** *(Add links)*  
+
+---
+
+### 🍽️ **Crisis Impact Analysis — Quick Byte**  
+*Power BI, SQL, Excel*  
+- Processed **50,000+ customer reviews**, detecting a **76.26% spike in negative sentiment**  
+- Built KPIs for MoM ratings, crisis variance, and touchpoint performance  
+- Delivered insights categorizing **10,000+ negative comments** and improving decision-making efficiency by **30%**  
+**Repo • Dashboard** *(Add links)*  
+
+---
+
+### 🛒 **SQL-based Consumer Insights**  
+*SQL (CTEs, Joins), Optimization Queries*  
+- Mapped a **36.33% surge** in unique products YoY and surfaced fast-growing categories  
+- Highlighted that Retailer Channel drove **73.22%** of FY21 sales (**$1.92B**)  
+- Uncovered quarterly demand patterns (**7M+ units** sold in Q1)  
+**Repo • Video** *(Add links)*  
+
+---
+
+### 🧑‍💼 **HR Analytics Automation**  
+*Power BI, Excel*  
+- Automated timesheet extraction, achieving a **95% reduction** in manual reporting time  
+- Cut Excel tasks by **75%**, moving report turnaround from days to hours  
+- Identified drivers of attendance, remote work trends, and top performance  
+**Repo • Dashboard • Video** *(Add links)*  
+
+---
+
+## 🎓 Certifications  
+- Google Data Analytics Professional Certificate  
+- Microsoft Excel (Beginner to Advanced) — Udemy  
+- SQL (Intermediate) — HackerRank  
+
+---
+
+## 🧩 Additional Work  
+- Designed a **Fitness & Health Log Dashboard** adopted by peers for daily performance tracking  
+- Built an **AI-powered Supply Chain Analytics Workflow** using N8N, Supabase & Quadratic for real-time OTIF & LFR monitoring  
+
+---
+
+## 📬 Connect  
+📧 **suchithakamarapu@gmail.com**  
+📱 **8520967066**  
+🔗 LinkedIn *(add link)*  
+🐙 GitHub: **Suchitha1921**  
+
+---
+
+### 🌱 Current Focus  
+Strengthening BI engineering fundamentals, designing analytically sound dashboards, and crafting frameworks that transform data into recurring value.
+
+
+
 
 ## 🌐 Let’s Connect
 

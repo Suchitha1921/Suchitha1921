@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Suchitha Kamarapu 👋</h1>
-
-# 🌐 Suchitha Kamarapu  
+  
 **Data Analyst | Power BI • SQL • Python • Excel | Insight Engineering & BI Solutions**
 
 I work at the intersection of business questions and analytical clarity.  
@@ -90,19 +89,8 @@ Aug 2025 – Present
 
 ---
 
-## 📬 Connect  
-📧 **suchithakamarapu@gmail.com**  
-📱 **8520967066**  
-🔗 LinkedIn *(add link)*  
-🐙 GitHub: **Suchitha1921**  
-
----
-
 ### 🌱 Current Focus  
 Strengthening BI engineering fundamentals, designing analytically sound dashboards, and crafting frameworks that transform data into recurring value.
-
-
-
 
 ## 🌐 Let’s Connect
 

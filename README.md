@@ -1,4 +1,4 @@
-# Hi, I'm Suchitha Kamarapu 👋
+# Hi, I'm Suchitha Kamarapu 
 
 I'm a Data Analyst passionate about turning raw data into meaningful business insights. I enjoy working with SQL, Power BI, Excel, and Python to clean data, analyze trends, and build dashboards that help solve real business problems.
 
@@ -58,8 +58,6 @@ I'm currently building projects that strengthen my skills in Business Intelligen
 - Built an interactive dashboard to analyze revenue, customer growth, policy performance, and settlement trends.
 - Used DAX measures and data modeling to create business KPIs.
 
-➡️ Repository: *Add Link*
-
 ---
 
 ### Consumer Goods Sales Analysis
@@ -68,8 +66,6 @@ I'm currently building projects that strengthen my skills in Business Intelligen
 - Solved business problems using joins, CTEs, window functions, and aggregations.
 - Analyzed sales performance, product growth, and customer trends.
 
-➡️ Repository: *Add Link*
-
 ---
 
 ### HR Analytics Dashboard
@@ -77,8 +73,6 @@ I'm currently building projects that strengthen my skills in Business Intelligen
 
 - Developed dashboards to monitor employee attendance and work patterns.
 - Automated reporting and reduced manual reporting effort.
-
-➡️ Repository: *Add Link*
 
 ---
 
@@ -105,4 +99,4 @@ I'm currently building projects that strengthen my skills in Business Intelligen
 
 💼 **LinkedIn:** https://linkedin.com/in/suchitha-kamarapu
 
-🌐 **Portfolio:** *Add Link*
+🌐 **Portfolio:** https://codebasics.io/portfolio/Suchitha-Kamarapu
